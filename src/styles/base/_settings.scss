@@ -1,0 +1,28 @@
+@import "./functions";
+/* ============= Settings ============== */
+/* Variables */
+$white: #ffffff;
+$black: #000;
+$darkModerateYellow: #999933;
+/* Fonts */
+$nunito: "Nunito",
+sans-serif;
+/* Box Sizes */
+$xxs-box-size: pxToRem(5);
+$xs-box-size: pxToRem(10);
+$s-box-size: pxToRem(15);
+$m-box-size: pxToRem(20);
+$l-box-size: pxToRem(30);
+$xl-box-size: pxToRem(40);
+$xxl-box-size: pxToRem(50);
+/* Text Sizes */
+$xs-text-size: pxToRem(14);
+$xs-text-size: pxToRem(16);
+$s-text-size: pxToRem(18);
+$m-text-size: pxToRem(20);
+$l-text-size: pxToRem(28);
+$xl-text-size: pxToRem(40);
+$xxl-text-size: pxToRem(50);
+$xxxl-text-size: pxToRem(55);
+/* Styles */
+$b-radius: 18;
